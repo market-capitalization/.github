@@ -57,9 +57,9 @@
     <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0020.jpg?raw=true"/></td>
     <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0021.jpg?raw=true"/></td>
   </tr>
-  <tr>
+<!--  <tr>
     <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0022.jpg?raw=true"/></td>
-  </tr>
+  </tr> -->
 </table>
 
 <br>
