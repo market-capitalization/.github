@@ -6,6 +6,10 @@
 
 </div>
 
+<!-- 
+<img src="https://github.com/market-capitalization/.github/blob/main/img/0001.jpg?raw=true"/>
+-->
+
 <br>
 
 ## 💸 Team. 시가총액
@@ -28,18 +32,38 @@
 <br>
 
 ## 💸 주요 기능
+
+<img width="85%" src="https://github.com/market-capitalization/.github/blob/main/img/0017.jpg?raw=true"/>
+
 ### 투자 모임 개설
 - 모임 목적, 목표 금액, 목표 기간 등 설정하여 모임 개설
 - 모임 상세 페이지에서는 총 자산, 달성률, 수익률, 투자한 주식 목록 등의 정보 확인
 - 메인 페이지에서는 내가 참여한 모임들의 목록을 한눈에 파악 가능
 
+<table align = "center">
+  <tr align = "center">
+    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0018.jpg?raw=true"/></td>
+    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0019.jpg?raw=true"/></td>
+  </tr>
+</table>
+
 ### 주식 종목 추천
 - 가입자의 연령대와 성별 정보를 바탕으로 신한카드 데이터 분석 결과를 활용하여 관련된 주식 종목 추천
 - 투자하길 희망하는 주식을 구별하기 위한 좋아요 기능
+<table align = "center">
+  <tr align = "center">
+    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0020.jpg?raw=true"/></td>
+    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0021.jpg?raw=true"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0022.jpg?raw=true"/></td>
+  </tr>
+</table>
 
 <br>
 
 ## 💸 기대 효과
+<img width="85%" src="https://github.com/market-capitalization/.github/blob/main/img/0025.jpg?raw=true"/>
 ### 젊은 세대의 위축된 투자심리 완화
 - 주식 투자에 대한 진입장벽을 낮추고 입문의 기회를 제공
 
