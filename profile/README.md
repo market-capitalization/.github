@@ -33,7 +33,9 @@
 
 ## 💸 주요 기능
 
+<div align=center> 
 <img width="85%" src="https://github.com/market-capitalization/.github/blob/main/img/0017.jpg?raw=true"/>
+</div>
 
 ### 투자 모임 개설
 - 모임 목적, 목표 금액, 목표 기간 등 설정하여 모임 개설
@@ -63,7 +65,11 @@
 <br>
 
 ## 💸 기대 효과
-<img width="85%" src="https://github.com/market-capitalization/.github/blob/main/img/0025.jpg?raw=true"/>
+
+<div align="center">
+  <img width="85%" src="https://github.com/market-capitalization/.github/blob/main/img/0025.jpg?raw=true"/>
+</div>
+
 ### 젊은 세대의 위축된 투자심리 완화
 - 주식 투자에 대한 진입장벽을 낮추고 입문의 기회를 제공
 
