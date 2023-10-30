@@ -18,13 +18,13 @@
   <tr align = "center">
     <td><a href="https://github.com/cyndii20"><img src="https://avatars.githubusercontent.com/u/90389093?v=4" width=200></a></td>
     <td><a href="https://github.com/5jisoo"><img src="https://avatars.githubusercontent.com/u/96935231?v=4" width=200></a></td>
-    <td></td>
+    <td><a href="https://github.com/chaeging"><img src="https://avatars.githubusercontent.com/u/122455485?v=4" width=200></a></td>
     <td><a href="https://github.com/chennielee"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/cyndii20">서정연</a> <br> PM, Data Analyst, <br>Frontend Developer</td>
     <td><a href = "https://github.com/5jisoo">오지수</a> <br> Backend Developer </td>
-    <td width="200"> 유채현 <br> Data Analyst </td>
+    <td><a href = "https://github.com/chaeging">유채현</a> <br> Data Analyst </td>
     <td><a href = "https://github.com/chennielee">이채은</a> <br> Frontend Developer</td>
   </tr>
 
